@@ -1,6 +1,6 @@
 Instagram Clone
 
-This project is a beginner-level SQL database that simulates basic features of Instagram, such as user profiles, posts, likes, and comments. It’s a great way to practice SQL queries, database design, and data manipulation.
+This project is a beginner-level SQL database that I created in 2022. It simulates basic features of Instagram, such as user profiles, posts, likes, and comments. It’s a great way to practice SQL queries, database design, and data manipulation.
 
 ## Project Structure
 
